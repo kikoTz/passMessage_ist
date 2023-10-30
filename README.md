@@ -15,10 +15,10 @@ Js is responsible for capturing text input from the page and displaying in the h
 with methods ready to execute once a click event is detected.
 
 deliverMessage()
-This method is responsible for capturing text input and displaying it in the header at the top of the text of the text input.
+- This method is responsible for capturing text input and displaying it in the header at the top of the text of the text input.
   
 clearFiled()
-This method is responsible for clearing text input value.  
+- This method is responsible for clearing text input value.  
 
 Requirements
 1. Web Browser supporting javascript, google chrome (Recommended)
